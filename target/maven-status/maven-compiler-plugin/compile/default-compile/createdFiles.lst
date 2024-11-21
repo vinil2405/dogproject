@@ -1,0 +1,6 @@
+com\vinilClasses\DMS\Repository\TrainerRepository.class
+com\vinilClasses\DMS\Models\Trainer.class
+com\vinilClasses\DMS\Controllers\DogController.class
+com\vinilClasses\DMS\DogManagementSystemApplication.class
+com\vinilClasses\DMS\Repository\DogRepository.class
+com\vinilClasses\DMS\Models\Dog.class
